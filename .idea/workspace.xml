@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="616a3e20-d20e-4b5a-9342-dcfdb6543d54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ebdf2f5-eec6-41f8-a4bb-42c592dc85af-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b848f92-12e4-408b-a9c0-109dbad6ea53-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2db47f62-f844-469b-996b-d6655a98d704-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2f0681ec-f4b0-4f64-b8ab-0a6b2c43c12d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/378ce665-99af-4682-80e7-2095caa8a31d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4c1ccdc9-3092-4667-a7fb-7e13f4df24ad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/543cbd9b-5538-4dd9-a4b8-b1071446d8df-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5442efde-8518-450f-99e2-2918d47a4ac1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/567a5279-1ee2-4699-b186-b70136da02a7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/56e19bf2-5ae0-4b0a-8622-9ece79083ea0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5a112aa1-2ba4-4587-a15c-75a1207db344-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/67ac241a-7c43-4bb0-b773-fc420f8c78d6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a398af7-3e9f-486d-ad2d-1b7d90d7517f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/76f5dfff-b6e1-4f84-abd4-f1dccd92d449-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7856d67a-48a2-4d9d-bd22-684d9953361a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/84b0ccec-01c5-4c0e-9302-6044b5950c8f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/854c0b9a-23b6-4ad5-850a-1dc784391125-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/90493201-d9d0-4228-a0aa-3eab8099d358-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/97e4bb76-d787-46fb-ae3b-2ea57bb71c4c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a3add501-e3dc-4cc7-a97e-35d467f98768-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac12d3e6-2eb5-47b1-8961-7f6c2522493f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b848116c-377d-445a-a158-27775efeb073-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c39ba82b-93e7-45c7-88db-7e903ddece28-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da473773-6535-45ed-abed-a496e37376b6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/de06ece3-e73f-4c22-9b4a-13c143f99cc0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e30270fb-2aee-4577-bb2e-6133ec9984d2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8f2ef51-17c6-4bf2-9afa-bcc6d7aee6f8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb9daaad-76a9-4c6d-b7d3-4785503c1d99-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/vwo_proj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngvwo.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jL13qjk8f2suCnYEB8iSAWkJJn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.D:/IntelliJ_Projects/SeleniumProject1_vwo/SeleniumProject1_vwo/testngvwo.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.vwo_proj.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.vwo_proj.testVWOLoginTitle.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ_Projects/SeleniumProject1_vwo/SeleniumProject1_vwo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ_Projects\SeleniumProject1_vwo\SeleniumProject1_vwo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.vwo_proj.testVWOLoginTitle">
+    <configuration name="D:/IntelliJ_Projects/SeleniumProject1_vwo/SeleniumProject1_vwo/testngvwo.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject1_vwo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngvwo.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vwo_proj" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject1_vwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.vwo_proj" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vwo_proj.testVWOLoginTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject1_vwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.vwo_proj" />
+      <option name="METHOD_NAME" value="testVWOLoginTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.vwo_proj.testVWOLoginTitle" />
+        <item itemvalue="TestNG.D:/IntelliJ_Projects/SeleniumProject1_vwo/SeleniumProject1_vwo/testngvwo.xml" />
+        <item itemvalue="TestNG.vwo_proj" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="616a3e20-d20e-4b5a-9342-dcfdb6543d54" name="Changes" comment="" />
+      <created>1721151349302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721151349302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
